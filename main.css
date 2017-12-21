@@ -35,6 +35,9 @@ body {
     display: flex;
     justify-content: center;
 }
+.btn {
+    cursor: pointer;
+}
 .btn:focus {
     outline: none;
 }
